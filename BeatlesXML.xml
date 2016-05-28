@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	The Beatles - Eleanor Rigby
+	John P Cavalieri
+	John_Cavalieri@student.uml.edu
+	Source: www.musicbrainz.org
+-->
+<!--ONE LINE COMMENT-->
+<songLibrary>
+	<song>
+		<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0">
+			<release id="98e94695-89d8-4d89-925c-ebb6265b92e1">
+				<title>
+					Yellow Submarine / Eleanor Rigby
+				</title>
+				<status>Official</status>
+				<quality>normal</quality>
+				<text-representation>
+					<language>eng</language>
+					<script>Latn</script>
+				</text-representation>
+				<artist-credit>
+					<name-credit>
+						<artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+							<name>The Beatles</name>
+							<sort-name>Beatles, The</sort-name>
+						</artist>
+					</name-credit>
+				</artist-credit>
+				<date>1966-08-05</date>
+				<country>GB</country>
+				<release-event-list count="1">
+					<release-event>
+						<date>1966-08-05</date>
+						<area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+							<name>United Kingdom</name>
+							<sort-name>United Kingdom</sort-name>
+							<iso-3166-1-code-list>
+								<iso-3166-1-code>GB</iso-3166-1-code>
+							</iso-3166-1-code-list>
+						</area>
+					</release-event>
+				</release-event-list>
+				<cover-art-archive>
+					<artwork>true</artwork>
+					<count>1</count>
+					<front>true</front>
+					<back>false</back>
+				</cover-art-archive>
+				<label-info-list count="1">
+					<label-info>
+						<catalog-number>R 5493</catalog-number>
+						<label id="df7d1c7f-ef95-425f-8eef-445b3d7bcbd9">
+							<name>Parlophone</name>
+							<sort-name>Parlophone</sort-name>
+							<label-code>299</label-code>
+						</label>
+					</label-info>
+				</label-info-list>
+				<medium-list count="1">
+					<medium>
+						<position>1</position>
+						<format>7Vinyl</format>
+						<disc-list>listContent</disc-list>
+						<track-list count="2" offset="0">
+							<track id="f09e9830-620b-3f4d-aca8-0e14bba2e24c">
+								<position>1</position>
+								<number>1</number>
+								<length>160666</length>
+								<recording id="b2181aae-5cba-496c-bb0c-b4cc0109ebf8">
+									<title>Yellow Submarine</title>
+									<length>160666</length>
+									<disambiguation>original stereo studio mix</disambiguation>
+									<artist-credit>
+										<name-credit id="creditsIDyesum">
+											<artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+												<name>The Beatles</name>
+												<sort-name>Beatles, The</sort-name>
+											</artist>
+										</name-credit>
+									</artist-credit>
+								</recording>
+							</track>
+							<track id="0edcb7ef-a40b-3390-92ad-062d4ba0cd83">
+								<position>2</position>
+								<number>2</number>
+								<length>126600</length>
+								<recording id="ae585b56-8d48-4d8a-9717-1365f1866a11">
+									<title>Eleanor Rigby</title>
+									<length>126600</length>
+									<artist-credit>
+										<name-credit>
+											<artist id="b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d">
+												<name>The Beatles</name>
+												<sort-name>Beatles, The</sort-name>
+											</artist>
+										</name-credit>
+									</artist-credit>
+								</recording>
+							</track>
+						</track-list>
+					</medium>
+				</medium-list>
+			</release>
+		</metadata>
+	</song>	
+	<song>
+		<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0">
+			<recording id="551319aa-72a7-4915-bf25-77ac0d4316d1">
+				<title>American Idiot</title>
+				<length>185000</length>
+				<artist-credit>
+					<name-credit>
+						<artist id="084308bd-1654-436f-ba03-df6697104e19">
+							<name>Green Day</name>
+							<sort-name>Green Day</sort-name>
+						</artist>
+					</name-credit>
+				</artist-credit>
+				<release-list count="2">
+					<release id="cb76e3dd-c68c-4d70-b8c5-1264a5a71204">
+						<title>American Idiot</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<packaging>Jewel Case</packaging>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="084308bd-1654-436f-ba03-df6697104e19">
+									<name>Green Day</name>
+									<sort-name>Green Day</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2010-04-20</date>
+						<country>XE</country>
+						<release-event-list count="1">
+							<release-event>
+								<date>2010-04-20</date>
+								<area id="89a675c2-3e37-3518-b83c-418bad59a85a">
+									<name>Europe</name>
+									<sort-name>Europe</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>XE</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>093624967569</barcode>
+					</release>
+					<release id="dee58b36-f23c-4f9a-9fcb-a5df143183c7">
+						<title>American Idiot</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="084308bd-1654-436f-ba03-df6697104e19">
+									<name>Green Day</name>
+									<sort-name>Green Day</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2010-04-20</date>
+						<country>US</country>
+						<release-event-list count="1">
+							<release-event>
+								<date>2010-04-20</date>
+								<area id="489ce91b-6658-3307-9877-795b68554c98">
+									<name>United States</name>
+									<sort-name>United States</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>US</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>093624967569</barcode>
+					</release>
+				</release-list>
+			</recording>
+		</metadata>
+	</song>	
+	<song>
+		<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0">
+			<recording id="7da37153-afe7-4cca-8a50-d7dc6203c87a">
+				<title>Holiday</title>
+				<length>230960</length>
+				<artist-credit>
+					<name-credit>
+						<artist id="6fe07aa5-fec0-4eca-a456-f29bff451b04">
+							<name>Weezer</name>
+							<sort-name>Weezer</sort-name>
+						</artist>
+					</name-credit>
+				</artist-credit>
+				<release-list count="1">
+					<release id="637f61d0-cb3f-4923-9992-c8dad8960a71">
+						<title>American Holiday</title>
+						<status>Bootleg</status>
+						<quality>normal</quality>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="6fe07aa5-fec0-4eca-a456-f29bff451b04">
+									<name>Weezer</name>
+									<sort-name>Weezer</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+					</release>
+				</release-list>
+			</recording>
+		</metadata>
+	</song>	
+	<song>
+		<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0">
+			<recording id="a052555b-bf99-4872-87b6-ae16167b82ce">
+				<title>Dammit</title>
+				<length>187946</length>
+				<artist-credit>
+					<name-credit>
+						<artist id="0743b15a-3c32-48c8-ad58-cb325350befa">
+							<name>blink‐182</name>
+							<sort-name>blink‐182</sort-name>
+						</artist>
+					</name-credit>
+				</artist-credit>
+				<release-list count="4">
+					<release id="508e0a1d-963c-4afb-b0fe-34b1ef951f3e">
+						<title>The Mark, Tom, and Travis Show</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="0743b15a-3c32-48c8-ad58-cb325350befa">
+									<name>blink‐182</name>
+									<sort-name>blink‐182</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2000</date>
+						<country>US</country>
+						<release-event-list count="1">
+							<release-event>
+								<date>2000</date>
+								<area id="489ce91b-6658-3307-9877-795b68554c98">
+									<name>United States</name>
+									<sort-name>United States</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>US</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+					</release>
+					<release id="9f15562c-cdd6-40ff-916f-b6099d3cec05">
+						<title>The Mark, Tom, and Travis Show</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<packaging>Digipak</packaging>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="0743b15a-3c32-48c8-ad58-cb325350befa">
+									<name>blink‐182</name>
+									<sort-name>blink‐182</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2000-11-07</date>
+						<country>US</country>
+						<release-event-list count="1">
+							<release-event>
+								<date>2000-11-07</date>
+								<area id="489ce91b-6658-3307-9877-795b68554c98">
+									<name>United States</name>
+									<sort-name>United States</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>US</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>008811237929</barcode>
+					</release>
+					<release id="b4229bc7-cd59-3673-887b-5d6c882e9a1e">
+						<title>The Mark, Tom, and Travis Show</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="0743b15a-3c32-48c8-ad58-cb325350befa">
+									<name>blink‐182</name>
+									<sort-name>blink‐182</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2000</date>
+						<country>GB</country>
+						<release-event-list count="1">
+							<release-event>
+								<date>2000</date>
+								<area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+									<name>United Kingdom</name>
+									<sort-name>United Kingdom</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>GB</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>008811237929</barcode>
+					</release>
+					<release id="b5fa2621-3e9a-4dbc-baf0-79f22e0fddf7">
+						<title>The Mark, Tom, and Travis Show</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="0743b15a-3c32-48c8-ad58-cb325350befa">
+									<name>blink‐182</name>
+									<sort-name>blink‐182</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2000-11-07</date>
+						<country>US</country>
+						<release-event-list count="1">
+							<release-event>
+								<date>2000-11-07</date>
+								<area id="489ce91b-6658-3307-9877-795b68554c98">
+									<name>United States</name>
+									<sort-name>United States</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>US</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+					</release>
+				</release-list>
+			</recording>
+		</metadata>
+	</song>
+	<song>
+		<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0">
+			<recording id="7da37153-afe7-4cca-8a50-d7dc6203c87a">
+				<title>How Do you Want it</title>
+				<length>230960</length>
+				<artist-credit>
+					<name-credit>
+						<artist id="6fe07aa5-fec0-4eca-a456-f29bff451b04">
+							<name>Tupac</name>
+							<sort-name>Tupac</sort-name>
+						</artist>
+					</name-credit>
+				</artist-credit>
+				<release-list count="1">
+					<release id="637f61d0-cb3f-4923-9992-c8dad8960a71">
+						<title>American Gangsta</title>
+						<status>Bootleg</status>
+						<quality>normal</quality>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="6fe07aa5-fec0-4eca-a456-f29bff451b04">
+									<name>Tupac</name>
+									<sort-name>Tupac</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+					</release>
+				</release-list>
+			</recording>
+		</metadata>
+	</song>
+	<song>
+		<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0">
+			<recording id="9c7d5992-7c71-44a8-b497-a76b2342ba35">
+				<title>Go Hard</title>
+				<length>212173</length>
+				<artist-credit>
+					<name-credit>
+						<artist id="ac9a487a-d9d2-4f27-bb23-0f4686488345">
+							<name>Lil Wayne</name>
+							<sort-name>Lil Wayne</sort-name>
+						</artist>
+					</name-credit>
+				</artist-credit>
+				<release-list count="1">
+					<release id="2bc1918a-5785-4beb-abcc-dd14cac0ca8b">
+						<title>500 Degreez</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="ac9a487a-d9d2-4f27-bb23-0f4686488345">
+									<name>Lil Wayne</name>
+									<sort-name>Lil Wayne</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2002-07-23</date>
+						<country>US</country>
+						<release-event-list count="1">
+							<release-event>
+								<date>2002-07-23</date>
+								<area id="489ce91b-6658-3307-9877-795b68554c98">
+									<name>United States</name>
+									<sort-name>United States</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>US</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>044006005829</barcode>
+					</release>
+				</release-list>
+			</recording>
+		</metadata>
+	</song>
+	<song>
+		<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0">
+			<recording id="eb6fc972-25c0-4217-ba0c-0d68f8d96732">
+				<title>Big Tigger Live on the Radio</title>
+				<length>60173</length>
+				<artist-credit>
+					<name-credit>
+						<artist id="ac9a487a-d9d2-4f27-bb23-0f4686488345">
+							<name>Lil Wayne</name>
+							<sort-name>Lil Wayne</sort-name>
+						</artist>
+					</name-credit>
+				</artist-credit>
+				<release-list count="1">
+					<release id="2bc1918a-5785-4beb-abcc-dd14cac0ca8b">
+						<title>500 Degreez</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="ac9a487a-d9d2-4f27-bb23-0f4686488345">
+									<name>Lil Wayne</name>
+									<sort-name>Lil Wayne</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2002-07-23</date>
+						<country>US</country>
+						<release-event-list count="1">
+							<release-event>
+								<date>2002-07-23</date>
+								<area id="489ce91b-6658-3307-9877-795b68554c98">
+									<name>United States</name>
+									<sort-name>United States</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>US</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>044006005829</barcode>
+					</release>
+				</release-list>
+			</recording>
+		</metadata>
+	</song>
+	<song>
+		<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0#">
+			<recording id="45cdfe8f-a3aa-4640-9870-ef4859365740">
+				<title>Rob Nice Live on the Radio</title>
+				<length>75373</length>
+				<artist-credit>
+					<name-credit>
+						<artist id="ac9a487a-d9d2-4f27-bb23-0f4686488345">
+							<name>Lil Wayne</name>
+							<sort-name>Lil Wayne</sort-name>
+						</artist>
+					</name-credit>
+				</artist-credit>
+				<release-list count="1">
+					<release id="2bc1918a-5785-4beb-abcc-dd14cac0ca8b">
+						<title>500 Degreez</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="ac9a487a-d9d2-4f27-bb23-0f4686488345">
+									<name>Lil Wayne</name>
+									<sort-name>Lil Wayne</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2002-07-23</date>
+						<country>US</country>
+						<release-event-list count="1">
+							<release-event>
+								<date>2002-07-23</date>
+								<area id="489ce91b-6658-3307-9877-795b68554c98">
+									<name>United States</name>
+									<sort-name>United States</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>US</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>044006005829</barcode>
+					</release>
+				</release-list>
+			</recording>
+		</metadata>
+	</song>
+	<song>
+		<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0#">
+			<recording id="c1fbb612-c8ce-40ac-a59e-005021625276">
+				<title>500 Degreez</title>
+				<length>227973</length>
+				<artist-credit>
+					<name-credit>
+						<artist id="ac9a487a-d9d2-4f27-bb23-0f4686488345">
+							<name>Lil Wayne</name>
+							<sort-name>Lil Wayne</sort-name>
+						</artist>
+					</name-credit>
+				</artist-credit>
+				<release-list count="1">
+					<release id="2bc1918a-5785-4beb-abcc-dd14cac0ca8b">
+						<title>500 Degreez</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="ac9a487a-d9d2-4f27-bb23-0f4686488345">
+									<name>Lil Wayne</name>
+									<sort-name>Lil Wayne</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2002-07-23</date>
+						<country>US</country>
+						<release-event-list count="1">
+							<release-event>
+								<date>2002-07-23</date>
+								<area id="489ce91b-6658-3307-9877-795b68554c98">
+									<name>United States</name>
+									<sort-name>United States</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>US</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>044006005829</barcode>
+					</release>
+				</release-list>
+			</recording>
+		</metadata>
+	</song>
+	<song>
+		<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0#">
+			<recording id="f86e9809-9e3f-4fd7-90aa-9d4a9c57e6db">
+				<title>We Don't Care</title>
+				<length>239840</length>
+				<artist-credit>
+					<name-credit>
+						<artist id="164f0d73-1234-4e2c-8743-d77bf2191051">
+							<name>Kanye West</name>
+							<sort-name>West, Kanye</sort-name>
+						</artist>
+					</name-credit>
+				</artist-credit>
+				<release-list count="3">
+					<release id="99a96bf6-8166-3b7c-97ed-ea525f13ec65">
+						<title>The College Dropout</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<disambiguation>edited/clean version</disambiguation>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="164f0d73-1234-4e2c-8743-d77bf2191051">
+									<name>Kanye West</name>
+									<sort-name>West, Kanye</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2004-02-10</date>
+						<country>US</country>
+						<release-event-list count="1">
+							<release-event>
+								<date>2004-02-10</date>
+								<area id="489ce91b-6658-3307-9877-795b68554c98">
+									<name>United States</name>
+									<sort-name>United States</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>US</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>602498617403</barcode>
+					</release>
+					<release id="a6949d8e-c1eb-4eee-a670-680d28dd80e6">
+						<title>The College Dropout</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="164f0d73-1234-4e2c-8743-d77bf2191051">
+									<name>Kanye West</name>
+									<sort-name>West, Kanye</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2004-02-16</date>
+						<country>GB</country>
+						<release-event-list count="1" backTrack="1435" list="OK">
+							<release-event>
+								<date>2004-02-16</date>
+								<area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+									<name>United Kingdom</name>
+									<sort-name>United Kingdom</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>GB</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>602498620618</barcode>
+					</release>
+					<release id="da13b81f-7b09-3fb6-b5c9-8551f22c797e">
+						<title>The College Dropout</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<packaging>Jewel Case</packaging>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="164f0d73-1234-4e2c-8743-d77bf2191051">
+									<name>Kanye West</name>
+									<sort-name>West, Kanye</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2004-02-10</date>
+						<country>US</country>
+						<release-event-list count="1" backTrack="01" list="No">
+							<release-event>
+								<date>2004-02-10</date>
+								<area id="489ce91b-6658-3307-9877-795b68554c98">
+									<name>United States</name>
+									<sort-name>United States</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>US</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>602498617397</barcode>
+					</release>
+				</release-list>
+			</recording>
+		</metadata>
+	</song>
+	<song>
+		<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0">
+			<recording id="24a3ae61-abcb-45bc-a72e-e6d35d8cf6a1">
+				<title>Spaceship</title>
+				<length>324093</length>
+				<artist-credit>
+					<name-credit phrase="HELLO" nextTime="YES">
+						<artist id="164f0d73-1234-4e2c-8743-d77bf2191051">
+							<name>Kanye West</name>
+							<sort-name>West, Kanye</sort-name>
+						</artist>
+					</name-credit>
+					<name-credit phrase="GOODBYE" Track="555" list="Top">
+						<artist id="9bb6be36-0e7b-4d49-9d1e-9ae5cc84210d">
+							<name>GLC</name>
+							<sort-name>GLC</sort-name>
+							<disambiguation>US rapper</disambiguation>
+						</artist>
+					</name-credit>
+					<name-credit>
+						<artist id="c2e49f7a-cd6f-48ca-8596-b03614ea4fe8">
+							<name>Consequence</name>
+							<sort-name>Consequence</sort-name>
+							<disambiguation>US rapper</disambiguation>
+						</artist>
+					</name-credit>
+				</artist-credit>
+				<release-list count="4" backTrack="3" list="back">
+					<release id="99a96bf6-8166-3b7c-97ed-ea525f13ec65">
+						<title>The College Dropout</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<disambiguation>edited/clean version</disambiguation>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="164f0d73-1234-4e2c-8743-d77bf2191051">
+									<name>Kanye West</name>
+									<sort-name>West, Kanye</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2004-02-10</date>
+						<country>US</country>
+						<release-event-list count="1" backTrack="3" list="back">
+							<release-event>
+								<date>2004-02-10</date>
+								<area id="489ce91b-6658-3307-9877-795b68554c98">
+									<name>United States</name>
+									<sort-name>United States</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>US</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>602498617403</barcode>
+					</release>
+					<release id="a6949d8e-c1eb-4eee-a670-680d28dd80e6">
+						<title>The College Dropout</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="164f0d73-1234-4e2c-8743-d77bf2191051">
+									<name>Kanye West</name>
+									<sort-name>West, Kanye</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2004-02-16</date>
+						<country>GB</country>
+						<release-event-list count="1" backTrack="3" list="back">
+							<release-event>
+								<date>2004-02-16</date>
+								<area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+									<name>United Kingdom</name>
+									<sort-name>United Kingdom</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>GB</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>602498620618</barcode>
+					</release>
+					<release id="b0f5a6ab-ebad-43d7-b880-c5a6d6a3e79d">
+						<title>The College Dropout</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="164f0d73-1234-4e2c-8743-d77bf2191051">
+									<name>Kanye West</name>
+									<sort-name>West, Kanye</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2005-09-21</date>
+						<country>JP</country>
+						<release-event-list count="1">
+							<release-event>
+								<date>2005-09-21</date>
+								<area id="2db42837-c832-3c27-b4a3-08198f75693c">
+									<name>Japan</name>
+									<sort-name>Japan</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>JP</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>4988005401878</barcode>
+					</release>
+					<release id="da13b81f-7b09-3fb6-b5c9-8551f22c797e">
+						<title>The College Dropout</title>
+						<status>Official</status>
+						<quality>normal</quality>
+						<packaging>Jewel Case</packaging>
+						<text-representation>
+							<language>eng</language>
+							<script>Latn</script>
+						</text-representation>
+						<artist-credit>
+							<name-credit>
+								<artist id="164f0d73-1234-4e2c-8743-d77bf2191051">
+									<name>Kanye West</name>
+									<sort-name>West, Kanye</sort-name>
+								</artist>
+							</name-credit>
+						</artist-credit>
+						<date>2004-02-10</date>
+						<country>US</country>
+						<release-event-list count="1">
+							<release-event>
+								<date>2004-02-10</date>
+								<area id="489ce91b-6658-3307-9877-795b68554c98">
+									<name>United States</name>
+									<sort-name>United States</sort-name>
+									<iso-3166-1-code-list>
+										<iso-3166-1-code>US</iso-3166-1-code>
+									</iso-3166-1-code-list>
+								</area>
+							</release-event>
+						</release-event-list>
+						<barcode>602498617397</barcode>
+					</release>
+				</release-list>
+			</recording>
+		</metadata>
+	</song>	
+</songLibrary>
